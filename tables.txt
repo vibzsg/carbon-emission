@@ -1,0 +1,12 @@
+create table cpu_metrics(Timestamp timestamp without time zone,AMD_Power_Consumption numeric, AMD_CPU_Utilization numeric,AMD_Carbon_Emission numeric);
+-------
+CREATE TABLE IF NOT EXISTS public.mwc_test
+(
+    "TimeStamp" timestamp without time zone NOT NULL,
+    "Power_Consumption" numeric,
+    "CPU_Utilization" numeric,
+    "AMD_Carbon_Emission" numeric,
+    "Intel_Carbon_Emission" numeric,
+    "Intel_Power_Consumption" numeric,
+    "Intel_CPU_Utilization" numeric
+)

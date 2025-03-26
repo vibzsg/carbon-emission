@@ -21,7 +21,9 @@ This is a project to analyze and potentially reduce carbon emissions associated 
 ### Data Structure
 
 The backend processes JSON payloads with the following structure:
+
 postman body --->
+
 {
         "c_date" : "2022-09-19 10:59:00" ,
         "amd_power" : "645",

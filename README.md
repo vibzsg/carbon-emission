@@ -1,4 +1,4 @@
-## This is a project to analyze and potentially reduce carbon emissions associated with computing tasks. power consumption and CPU utilization for AMD and Intel processors.
+### This is a project to analyze and potentially reduce carbon emissions associated with computing tasks. power consumption and CPU utilization for AMD and Intel processors.
  python backend files
 
 ## Overall Workflow
